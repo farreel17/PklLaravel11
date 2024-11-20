@@ -2,3 +2,4 @@ BELAJAR GITHUB
 -Mempelajari Isi Dalam Githun
 -Belajar FORK pada GitHub
 -Belajar BRANCH pada GitHub
+-Belajar BRANCH dan MARGE pada GitHub
